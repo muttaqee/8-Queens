@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">COMP 590 Assignment 1</string>
+    <string name="action_settings">Settings</string>
+    <string name="queen">1</string>
+    <string name="no_queen">0</string>
+    <string name="give_up_button">give up</string>
+</resources>
